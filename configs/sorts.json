@@ -1,33 +1,41 @@
 {
     "": [
         "learn-android-dev", 
+        "day05", 
         "day04", 
         "day03", 
-        "day02", 
-        "day01"
+        "day01", 
+        "day02"
     ], 
-    "__positions": {
-        "learn-android-dev": 1, 
-        "day02/readme.md": 4001, 
-        "day03": 3, 
-        "day02": 4, 
-        "day01": 5, 
-        "day04/readme.md": 2001, 
-        "day04": 2
-    }, 
+    "day02": [
+        "readme.md"
+    ], 
+    "day05": [
+        "readme.md"
+    ], 
     "day04": [
         "readme.md"
     ], 
+    "__positions": {
+        "learn-android-dev": 1, 
+        "day02/readme.md": 6001, 
+        "day05/readme.md": 2001, 
+        "day03": 4, 
+        "day02": 6, 
+        "day01": 5, 
+        "day04/readme.md": 3001, 
+        "day05": 2, 
+        "day04": 3
+    }, 
     "__raw_positions": {
         "learn-android-dev": 1, 
         "day02/readme.md": 1, 
-        "day03": 3, 
-        "day02": 4, 
+        "day05/readme.md": 1, 
+        "day03": 4, 
+        "day02": 6, 
         "day01": 5, 
         "day04/readme.md": 1, 
-        "day04": 2
-    }, 
-    "day02": [
-        "readme.md"
-    ]
+        "day05": 2, 
+        "day04": 3
+    }
 }
