@@ -1,29 +1,22 @@
-apply plugin: 'com.android.application'
+# 学习要点
 
-apply plugin: 'kotlin-android'
+- Gradle
+- 常用 dependencies
+- appcompat
+- recyclerview
+- design
+- constraint-layout
+- multidex
+- kotlin-stdlib-jre7
+- anko
+- qiniu-android-sdk
+- okhttp
+- wechat-sdk-android
+- logger
+- jiaozivideoplayer
+- RxTools
 
-apply plugin: 'kotlin-android-extensions'
-
-android {
-    compileSdkVersion 27
-    defaultConfig {
-        applicationId "com.gaoshuaipeng.demoday04app"
-        minSdkVersion 21
-        targetSdkVersion 27
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-    }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
-}
-
-dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+```
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation "com.android.support:recyclerview-v7:27.1.1"
     implementation 'com.android.support:design:27.1.1'
@@ -39,10 +32,4 @@ dependencies {
     implementation 'com.orhanobut:logger:1.15'
     implementation 'cn.jzvd:jiaozivideoplayer:6.2.10'
     implementation 'com.github.vondear:RxTools:v1.7.7.3'
-
-
-
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-}
+```
