@@ -1,6 +1,7 @@
 {
     "": [
         "learn-android-dev", 
+        "day07", 
         "day06", 
         "day05", 
         "day04", 
@@ -9,6 +10,9 @@
         "day02"
     ], 
     "day02": [
+        "readme.md"
+    ], 
+    "day07": [
         "readme.md"
     ], 
     "day06": [
@@ -22,28 +26,32 @@
     ], 
     "__positions": {
         "learn-android-dev": 1, 
-        "day02/readme.md": 7001, 
-        "day05/readme.md": 3001, 
-        "day03": 5, 
-        "day02": 7, 
-        "day01": 6, 
-        "day04/readme.md": 4001, 
-        "day06": 2, 
-        "day05": 3, 
-        "day04": 4, 
-        "day06/readme.md": 2001
+        "day02/readme.md": 8001, 
+        "day05/readme.md": 4001, 
+        "day03": 6, 
+        "day02": 8, 
+        "day01": 7, 
+        "day04/readme.md": 5001, 
+        "day07": 2, 
+        "day06": 3, 
+        "day05": 4, 
+        "day04": 5, 
+        "day07/readme.md": 2001, 
+        "day06/readme.md": 3001
     }, 
     "__raw_positions": {
         "learn-android-dev": 1, 
         "day02/readme.md": 1, 
         "day05/readme.md": 1, 
-        "day03": 5, 
-        "day02": 7, 
-        "day01": 6, 
+        "day03": 6, 
+        "day02": 8, 
+        "day01": 7, 
         "day04/readme.md": 1, 
-        "day06": 2, 
-        "day05": 3, 
-        "day04": 4, 
+        "day07": 2, 
+        "day06": 3, 
+        "day05": 4, 
+        "day04": 5, 
+        "day07/readme.md": 1, 
         "day06/readme.md": 1
     }
 }
