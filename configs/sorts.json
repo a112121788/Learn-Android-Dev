@@ -1,0 +1,25 @@
+{
+    "": [
+        "learn-android-dev", 
+        "day03", 
+        "day02", 
+        "day01"
+    ], 
+    "__positions": {
+        "day03": 2, 
+        "day02": 3, 
+        "day01": 4, 
+        "learn-android-dev": 1, 
+        "day02/readme.md": 3001
+    }, 
+    "__raw_positions": {
+        "day03": 2, 
+        "day02": 3, 
+        "day01": 4, 
+        "learn-android-dev": 1, 
+        "day02/readme.md": 1
+    }, 
+    "day02": [
+        "readme.md"
+    ]
+}
